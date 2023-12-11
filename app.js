@@ -18,7 +18,7 @@ client.on('ready', ()=> {
 
     // targeted user
     if(message.author.id === targetUser) {
-        // TODO: react for the user
+        // TODO: react to the user
     }
 })
 
